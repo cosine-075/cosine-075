@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cosine-075
+- 👋 Hi, I’m @hypernova
 - 👀 I’m interested in math & more math.
 - 🌱 I’m currently learning data science & machine learning.
 - 💞️ I’m looking to collaborate on neural networks.
